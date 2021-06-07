@@ -1,4 +1,4 @@
-# Gazebo_MultiAgent_ReinforcementLearning
+# Gazebo_MultiAgent_ReinforcementLearning （Pytorch, DDPG, gazebo）
 The environment is still chaging, this project is not finished.
 
 ## Steps to begin:
